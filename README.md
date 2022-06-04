@@ -10,7 +10,7 @@
 
 <h1 align="center">Hi 👋, I'm Paras Jain</h1>
 <h3 align="center">A Full stack web developer</h3>
-<h3 align="center">Full Stack Developer skilled in MERN stack, moulded and shaped by Masai school’s intensive and immersive learning. Look forward to joining a company where I will be able to contribute towards individual and company growth.</h3>
+<h3 align="center">Full Stack Developer skilled in MERN stack, molded and shaped by Masai school’s intensive and immersive learning. I look forward to joining a company where I will be able to contribute to individual and company growth.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paras0602&label=Profile%20views&color=0e75b6&style=flat" alt="paras0602" /> </p>
 
@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, React**
 
-- ❤️ My hobbies are **Playing games, listening music, watching movies and Swimming**
+- ❤️ My hobbies are **Playing games, listening to music, watching movies, and, Swimming**
 
 - 👍 Challenges make me motivate
 
