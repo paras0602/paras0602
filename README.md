@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paras0602" alt="paras0602" /></a> </p>
 
-- 🔭 I’m currently working on **portfolio**
+- 🔭 I’m currently working on **Indian Express Clone**
 
 - 🌱 I’m currently learning **learning React**
 
